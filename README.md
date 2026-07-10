@@ -39,3 +39,14 @@ Currently, I am expanding my physical architecture knowledge into the realm of C
 
 <br/>
 <hr/>
+
+<div align="center">
+  <h2>Hardware State</h2>
+  <br>
+  <p>Look at this 8-bit Linear Feedback Shift Register (LFSR) I built from scratch in Logisim! I injected a <code>1</code> into the first edge-triggered flip-flop to seed the engine, and watched it immediately cascade through a 4-input XOR gate to generate a chaotic pseudo-random sequence. Bare-metal logic at its finest.</p>
+  <br>
+  <img alt="8-Bit LFSR Engine" width="600" src="./lfsr-engine.gif" />
+  <br/><br/><br/>
+</div>
+
+<hr/>

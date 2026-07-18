@@ -30,7 +30,7 @@ Currently, I am expanding my physical architecture knowledge into the realm of C
 <br/>
 <div align="center">
     <!-- Standard Software Icons -->
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,linux,bash,git,arduino" alt="Software Stack" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cmake,matlab,py,linux,bash,git,arduino" alt="Software Stack" />
     <br><br>
     <!-- Hardware/HDL Badges -->
     <img src="https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logo=alpenglow&logoColor=white" alt="Verilog" />
